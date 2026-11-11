@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/inf55404/infianteani/language-masters/en:/",
+    "/content/inf55404/infianteani/language-masters/en/:/en/",
+    "/content/inf55404/infianteani/configuration:/.helix/config.json",
+    "/content/inf55404/infianteani/metadata:/metadata.json",
+    "/content/inf55404/infianteani/redirects:/redirects.json",
+    "/content/inf55404/infianteani/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/inf55404/infianteani/",
+    "/content/dam/inf55404/infianteani/"
   ]
 }
